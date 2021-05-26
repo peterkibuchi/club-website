@@ -1,5 +1,5 @@
 # Project Name
-> A simple website for a fictional club.
+> (Fictional) Club website for Knights of the Seven Kingdoms.
 > Live demo [_here_](https://peterkibuchi.github.io/club-website/).
 
 ## Table of Contents
