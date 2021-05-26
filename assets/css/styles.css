@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Game of Thrones';
-    src: url('/assets/fonts/Game\ of\ Thrones.ttf') format('truetype');
+    src: url('./assets/fonts/Game\ of\ Thrones.ttf') format('truetype');
 }
 
 /* Universal Styles */
